@@ -1,0 +1,92 @@
+.footerpage{
+  
+  
+  width: 100%;
+  background-color: #2b3035;
+  padding: 5px;
+  text-align: center;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+.navsibies{
+  position: fixed;
+  top: 0;
+  padding: 5px; 
+}
+
+main{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  flex-grow: 1;
+}
+
+body {
+  /* background: linear-gradient(135deg, #e1000f 100%, #3a3939 80%); */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+}
+
+
+
+.formEstudiante{
+  background-color: white;
+  padding: 30px;
+  border-radius: 5px;
+  margin-top: 5%;
+
+}
+
+.custom-nav{
+  margin-left: 64.2%;
+  
+}
+
+.myForm {
+  
+  max-width: 400px;
+  margin: 0 auto; 
+  padding: 20px; 
+  border-radius: 5px; 
+  
+ 
+}
+
+.myForm button{
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px
+}
+
+.card {
+  margin-top: 50px; 
+  margin-bottom: 71px; 
+  box-shadow: 10px 8px 5px rgba(0, 0, 0, 0.562);
+}
+
+.myForm .input-user {
+  margin-top: 14px; 
+}
+.myForm .input-contra {
+  margin-top: 10%; 
+}
+
+.cards-deatalleEstudiante{
+  margin:30px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
